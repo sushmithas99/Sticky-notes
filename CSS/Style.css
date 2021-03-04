@@ -115,6 +115,8 @@ ul li p{
     border-color: none;
     border-style: none;
     cursor: pointer;
+    font-weight: bold;
+    outline: none;
 }
 .delete:hover{
     background-color: rgb(238, 74, 74);
@@ -133,6 +135,7 @@ h2
   background-color:powderblue;
   width: 84%;
   word-break:keep-all;
+  font-family: 'Lobster', cursive;
   
 }
 ul li{
@@ -146,6 +149,7 @@ ul{
     overflow: hidden;  
 
 }
+
 ul li a {
     text-decoration: none;
     color: #000;
